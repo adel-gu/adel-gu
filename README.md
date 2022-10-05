@@ -2,7 +2,8 @@
 
 
 ## About me:
-Hi 👋, My name is **Adel**, almost like the singer but a whole diffrent kinda artist 👨‍💻.  
+Hi 👋, my name is **Adel**, almost similar name to Adele the singer but am a whole different kind of artist👨‍💻.  
+
 
 ## My stack:
 ![image](https://user-images.githubusercontent.com/68030297/194157799-eb7fd036-5104-4d09-82a2-ef4a1fec2129.png)
