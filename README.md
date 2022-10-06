@@ -2,7 +2,7 @@
 
 
 ### Hi 👋!
-My name is **Adel**, and yes I have a similar name to that amizing singer but am a whole different kind of artist 👨‍💻, currently studying full stack web development at Microverse.  
+My name is **Adel**, and yes I have a similar name to that amazing singer but I am an artist of a completely different kind 👨‍💻, I am currently studying full web development at Microverse. 
 
 
 ## My stack:
