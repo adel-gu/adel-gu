@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/68030297/194155768-fb0a1664-cd9a-4d94-b550-c9e588f59e2b.png)
+![image](https://user-images.githubusercontent.com/68030297/194435283-cda60e13-e5c9-4c00-aeb6-d39ee53b7009.png)
 
-
-### Hi 👋!
-My name is **Adel**, and yes I have a similar name to that amazing singer but I am an artist of a completely different kind 👨‍💻, I am currently studying full web development at Microverse. 
+### Salam 👋!
+My name is **Adel**, and yes I have a similar name to that amazing singer but I am a completely different kind of artist 👨‍💻, <br />
+I am currently studying full stack web development ⚙ at Microverse. 
 
 
 ## My stack:
@@ -18,8 +18,13 @@ My name is **Adel**, and yes I have a similar name to that amazing singer but I 
 ## Other tools:
 ![webpack](https://user-images.githubusercontent.com/68030297/194184676-204a87c0-d772-4db4-a31c-dd0919fbdafc.svg)
 ![jest (1)](https://user-images.githubusercontent.com/68030297/194186897-1e66bc20-dad8-4718-9d61-836ffdcd1ffb.svg)
+![linters](https://user-images.githubusercontent.com/68030297/194436154-3e9e6758-6cd0-4f36-b85d-97d67f34057c.svg)
 ![git](https://user-images.githubusercontent.com/68030297/194185175-79f1f018-cb39-40eb-9785-4e1bd30a626a.svg)
 ![figma](https://user-images.githubusercontent.com/68030297/194185102-b0aee2c0-1b49-43eb-90e3-509484041678.svg)
+
+## Contact me on:
+
+## 
 
 
 
