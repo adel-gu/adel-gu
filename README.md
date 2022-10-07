@@ -18,12 +18,12 @@ I am currently studying full stack web development ⚙ at Microverse.
 ## Other tools:
 ![webpack](https://user-images.githubusercontent.com/68030297/194184676-204a87c0-d772-4db4-a31c-dd0919fbdafc.svg)
 ![jest (1)](https://user-images.githubusercontent.com/68030297/194186897-1e66bc20-dad8-4718-9d61-836ffdcd1ffb.svg)
-![linters](https://user-images.githubusercontent.com/68030297/194436154-3e9e6758-6cd0-4f36-b85d-97d67f34057c.svg)
+![linters](https://user-images.githubusercontent.com/68030297/194528378-32a50083-a458-4858-b05b-5f920f3fe231.svg)
 ![git](https://user-images.githubusercontent.com/68030297/194185175-79f1f018-cb39-40eb-9785-4e1bd30a626a.svg)
 ![figma](https://user-images.githubusercontent.com/68030297/194185102-b0aee2c0-1b49-43eb-90e3-509484041678.svg)
 
 ## Contact me on:
-
+[![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/adelguitoun/)
 ## 
 
 
