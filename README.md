@@ -1,9 +1,10 @@
 ![image](https://user-images.githubusercontent.com/68030297/194435283-cda60e13-e5c9-4c00-aeb6-d39ee53b7009.png)
 
 ### Salam 👋!
-My name is **Adel**, and yes I have a similar name to that amazing singer but I am a completely different kind of artist 👨‍💻, <br />
+```javascript
+My name is **Adel**, and yes I have a similar name to that amazing singer but I am a completely different kind of artist 👨‍💻, 
 I am currently studying full stack web development ⚙ at Microverse. 
-
+```
 
 ## My stack:
 ![css](https://user-images.githubusercontent.com/68030297/194180629-b2bd092e-8c71-4032-acfa-55f13b7a095a.svg)
