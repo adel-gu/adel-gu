@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68030297/194435283-cda60e13-e5c9-4c00-aeb6-d39ee53b7009.png)
+![image](https://user-images.githubusercontent.com/68030297/194717261-fad64b77-de24-4949-94a3-dda10f0d176f.png)
 
 ### Salam 👋!
 ```javascript
@@ -24,15 +24,12 @@ I am currently studying full stack web development ⚙ at Microverse.
 ![figma](https://user-images.githubusercontent.com/68030297/194185102-b0aee2c0-1b49-43eb-90e3-509484041678.svg)
 
 ## Contact me on:
+<a href="mailto:adeelguitoun@gmail.com">![EMAIL (2)](https://user-images.githubusercontent.com/68030297/194710587-78e1cc36-de48-4c31-832e-f08970c836be.svg)
+</a>
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/adelguitoun/)
+[![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/GuitounAdel)
 ## 
 
-
-
-
-
-
-
-
-
-
+###### Credits 👏
+> - Great thanks to [Marcosuel Vieira](https://github.com/lexmarcos) ✨ for the design assets, get a copy from his [GITHUB PROFILE ICONS AND BANNERS](https://www.figma.com/community/file/1070386597620428605).
+> - Thanks to [Alzea Arafat](https://www.figma.com/@zea) ✨, check his [SALY - 3D Illustration Pack](https://www.figma.com/community/file/890095002328610853) and get your avatar.
