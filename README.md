@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68030297/194717261-fad64b77-de24-4949-94a3-dda10f0d176f.png)
+![image](https://user-images.githubusercontent.com/68030297/196045357-7257cf12-bf53-4359-8e26-047dea7e4ab9.png)
 
 ### Salam 👋!
 ```javascript
