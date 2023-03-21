@@ -2,25 +2,20 @@
 
 ### Salam 👋!
 ```javascript
-console.log(this.person);
 
-._______________________________________________________________________________________________________________________________.
-| {                                                                                                                             |
-|    🤓 : {                                                                                                                     |
-|        callMe: "adel",                                                                                                        |
-|        education: "microvers remote full stack web development",                                                              |
-|        description: "coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",  |
-|        talkAbout: ["web dev", "tech", "computer science"],                                                                    |
-|        onFreeTime: {                                                                                                          |
-|            drinking: "coffee",                                                                                                |
-|            reading: "startups, businesses and technologies",                                                                  |
-|            connecting: "sharing knowledge with others."                                                                       |
-|        },                                                                                                                     |
-|        currentFocus: ["tailwindCSS", "taypescript", "next.js", "ds & Algo", "design patterns"],                               |
-|        futureFocus: ["blockchain", "artificial intelligence"]                                                                 |
-|    }                                                                                                                          |
-|  }                                                                                                                            |
-._______________________________________________________________________________________________________________________________.
+const adel_🤓 = {                                                                                                     
+  education: "microvers remote full stack web development",                                                              
+  description: "coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",  
+  talkAbout: ["web dev", "tech", "computer science"],                                                                    
+  onFreeTime: {                                                                                                          
+      drinking: "coffee",                                                                                                
+      reading: "startups, businesses and technologies",                                                                
+      connecting: "sharing knowledge with others."                                                                     
+  },                                                                                                                   
+  currentFocus: ["tailwindCSS", "taypescript", "next.js", "ds & Algo", "design patterns"],                             
+  futureFocus: ["blockchain", "artificial intelligence"]
+};                                                                     
+
 ```
 
 ## My stack:
@@ -49,7 +44,7 @@ console.log(this.person);
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/adelguitoun/)
 [![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/GuitounAdel)
 
-## Articles:
+## Recent Articles:
 [![MEDUIM](https://user-images.githubusercontent.com/68030297/226478922-5fb0be6c-e19c-470a-87a9-7e9ce113a8ff.png)](https://medium.com/@adeelguitoun)
 
 ## 
