@@ -2,8 +2,25 @@
 
 ### Salam 👋!
 ```javascript
-My name is **Adel**, and yes I have a similar name to that amazing singer but I am a completely different kind of artist 👨‍💻, 
-I am currently studying full stack web development ⚙ at Microverse. 
+console.log(this.person);
+
+._______________________________________________________________________________________________________________________________.
+| {                                                                                                                             |
+|    🤓 : {                                                                                                                     |
+|        callMe: "adel",                                                                                                        |
+|        education: "microvers remote full stack web development",                                                              |
+|        description: "coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",  |
+|        talkAbout: ["web dev", "tech", "computer science"],                                                                    |
+|        onFreeTime: {                                                                                                          |
+|            drinking: "coffee",                                                                                                |
+|            reading: "startups, businesses and technologies",                                                                  |
+|            connecting: "sharing knowledge with others."                                                                       |
+|        },                                                                                                                     |
+|        currentFocus: ["tailwindCSS", "taypescript", "next.js", "ds & Algo", "design patterns"],                               |
+|        futureFocus: ["blockchain", "artificial intelligence"]                                                                 |
+|    }                                                                                                                          |
+|  }                                                                                                                            |
+._______________________________________________________________________________________________________________________________.
 ```
 
 ## My stack:
@@ -15,6 +32,7 @@ I am currently studying full stack web development ⚙ at Microverse.
 ![react](https://user-images.githubusercontent.com/68030297/194183447-f54e4875-cefc-468d-bd4b-7e80283a3fe7.svg)
 ![ruby](https://user-images.githubusercontent.com/68030297/194183546-d428a684-f845-4a4d-95c2-d3f09d9287df.svg)
 ![rails](https://user-images.githubusercontent.com/68030297/194183560-55e87cce-26e1-4622-b7bd-3fd40df4e9b0.svg)
+![postgresql](https://user-images.githubusercontent.com/68030297/226479542-52813116-2697-40e2-9c1a-91013b432747.svg)
 
 ## Other tools:
 ![webpack](https://user-images.githubusercontent.com/68030297/194184676-204a87c0-d772-4db4-a31c-dd0919fbdafc.svg)
@@ -23,11 +41,17 @@ I am currently studying full stack web development ⚙ at Microverse.
 ![git](https://user-images.githubusercontent.com/68030297/194185175-79f1f018-cb39-40eb-9785-4e1bd30a626a.svg)
 ![figma](https://user-images.githubusercontent.com/68030297/194185102-b0aee2c0-1b49-43eb-90e3-509484041678.svg)
 
+
+
 ## Contact me on:
 <a href="mailto:adeelguitoun@gmail.com">![EMAIL (2)](https://user-images.githubusercontent.com/68030297/194710587-78e1cc36-de48-4c31-832e-f08970c836be.svg)
 </a>
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/adelguitoun/)
 [![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/GuitounAdel)
+
+## Articles:
+[![MEDUIM](https://user-images.githubusercontent.com/68030297/226478922-5fb0be6c-e19c-470a-87a9-7e9ce113a8ff.png)](https://medium.com/@adeelguitoun)
+
 ## 
 
 ###### Credits 👏
