@@ -12,7 +12,7 @@ const adel_🤓 = {
     reading: "Startups, Businesses, and Technologies",
     connecting: "Sharing knowledge with others."
   },
-  currentFocus: ["Tailwind CSS", "TypeScript", "Next.js", "DS & Algo", "design patterns"],
+  currentFocus: ["Tailwind CSS", "TypeScript", "Next.js", "DS & Algo", "Design Patterns"],
   futureFocus: ["Blockchain", "Artificial Intelligence"]
 };                                                                   
 
