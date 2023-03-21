@@ -3,18 +3,18 @@
 ### Salam 👋!
 ```javascript
 
-const adel_🤓 = {                                                                                                     
-  education: "microvers remote full stack web development",                                                              
-  description: "coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",  
-  talkAbout: ["web dev", "tech", "computer science"],                                                                    
-  onFreeTime: {                                                                                                          
-      drinking: "coffee",                                                                                                
-      reading: "startups, businesses and technologies",                                                                
-      connecting: "sharing knowledge with others."                                                                     
-  },                                                                                                                   
-  currentFocus: ["tailwindCSS", "taypescript", "next.js", "ds & Algo", "design patterns"],                             
-  futureFocus: ["blockchain", "artificial intelligence"]
-};                                                                     
+const adel_🤓 = {
+  education: "Microverse remote full stack web development",
+  description: "Coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",
+  talkAbout: ["Web development", "Tech", "Computer Science"],
+  onFreeTime: {
+    drinking: "Coffee",
+    reading: "Startups, Businesses, and Technologies",
+    connecting: "Sharing knowledge with others."
+  },
+  currentFocus: ["Tailwind CSS", "TypeScript", "Next.js", "DS & Algo", "design patterns"],
+  futureFocus: ["Blockchain", "Artificial Intelligence"]
+};                                                                   
 
 ```
 
