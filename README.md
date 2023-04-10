@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68030297/196045357-7257cf12-bf53-4359-8e26-047dea7e4ab9.png)
+![image](https://user-images.githubusercontent.com/68030297/230952723-cbe38263-9521-418b-9bbd-57dcc19ec67b.png)
 
 ### Salam 👋!
 ```javascript
@@ -24,6 +24,7 @@ const adel_🤓 = {
 ![sass](https://user-images.githubusercontent.com/68030297/194180718-eb434824-2303-4563-98d8-ebb9849d9977.svg)
 ![bootstrap](https://user-images.githubusercontent.com/68030297/194183348-9266099e-86c1-4d79-a305-63f25f9966e4.svg)
 ![js](https://user-images.githubusercontent.com/68030297/194180687-4530941e-f458-4ef1-8f4a-a79cb553326e.svg)
+![ts](https://user-images.githubusercontent.com/68030297/230952528-d5622569-56f8-4692-80dd-8f48da671c43.svg)
 ![react](https://user-images.githubusercontent.com/68030297/194183447-f54e4875-cefc-468d-bd4b-7e80283a3fe7.svg)
 ![ruby](https://user-images.githubusercontent.com/68030297/194183546-d428a684-f845-4a4d-95c2-d3f09d9287df.svg)
 ![rails](https://user-images.githubusercontent.com/68030297/194183560-55e87cce-26e1-4622-b7bd-3fd40df4e9b0.svg)
