@@ -4,15 +4,27 @@
 ```javascript
 
 const adel_🤓 = {
-  education: "Microverse remote full stack web development",
+  education: 'Microverse remote full stack web development',
   description: "Coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",
-  talkAbout: ["Web development", "Tech", "Computer Science"],
+  talkAbout: ['Web development', 'Tech', 'Computer Science'],
   onFreeTime: {
     drinking: "Coffee",
     reading: "Startups, Businesses, and Technologies",
     connecting: "Sharing knowledge with others."
   },
-  currentFocus: ["Tailwind CSS", "TypeScript", "Next.js", "DS & Algo", "Design Patterns"],
+  dailyTechUsed: {
+    frontEnd: {
+      core: 'React',
+      framework: 'Next',
+      uiState: 'Redux',
+      remoteState: 'Tanstack',
+      Styling: ['TailwindCSS', 'styled-components'],
+      uiFrameWorks: ['Shadcn', 'antD']
+    }
+    backEnd: ['Node', 'Express'],
+    DataBase: ['MongoDB', 'PostgresSql']
+  }
+  currentFocus: ['React Design system', 'Microservices', 'DevOps'],
   futureFocus: ["Blockchain", "Artificial Intelligence"]
 };                                                                   
 
