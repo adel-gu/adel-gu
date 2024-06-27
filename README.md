@@ -4,6 +4,7 @@
 ```javascript
 
 const adel_🤓 = {
+  title: "Full Stack Web Software Engineer",
   education: "Microverse remote full stack web development",
   description: "Coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",
   talkAbout: ['Web development', 'Tech', 'Computer Science'],
@@ -20,10 +21,10 @@ const adel_🤓 = {
       remoteState: "Tanstack",
       Styling: ["TailwindCSS", "styled-components"],
       uiFrameWorks: ["Shadcn", "antD"]
-    }
+    },
     backEnd: ["Node", "Express"],
     DataBase: ["MongoDB", "PostgresSql"]
-  }
+  },
   currentFocus: ["React Design system", "Microservices", "DevOps"],
   futureFocus: ["Blockchain", "Artificial Intelligence"]
 };                                                                   
