@@ -1,10 +1,10 @@
-![image](https://user-images.githubusercontent.com/68030297/230952723-cbe38263-9521-418b-9bbd-57dcc19ec67b.png)
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/519af4d7-6873-4a7c-b2b6-aff23d8d86b3)
 
 ### Salam 👋!
 ```javascript
 
 const adel_🤓 = {
-  title: "Full Stack Web Software Engineer",
+  title: "Front-end Software Engineer",
   education: "Microverse remote full stack web development",
   description: "Coffee addict and a team player who thrives on collaboration and connecting with diverse individuals.",
   talkAbout: ['Web development', 'Tech', 'Computer Science'],
@@ -20,12 +20,13 @@ const adel_🤓 = {
       uiState: "Redux",
       remoteState: "Tanstack",
       Styling: ["TailwindCSS", "styled-components"],
-      uiFrameWorks: ["Shadcn", "antD"]
+      uiFrameWorks: ["Shadcn", "antD"],
+      others: ["React Design system", "Microfrontend", "Reusable component libraries"]
     },
     backEnd: ["Node", "Express"],
     DataBase: ["MongoDB", "PostgresSql"]
   },
-  currentFocus: ["React Design system", "Microservices", "DevOps"],
+  currentFocus: ["Microservices", "DevOps"],
   futureFocus: ["Blockchain", "Artificial Intelligence"]
 };                                                                   
 
