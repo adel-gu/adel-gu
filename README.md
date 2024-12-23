@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/519af4d7-6873-4a7c-b2b6-aff23d8d86b3)
+![Black Technology LinkedIn Banner](https://github.com/user-attachments/assets/05143bb5-f19f-4bf9-920a-b4556f72b4fc)
 
 ### Salam 👋!
 ```javascript
